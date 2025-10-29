@@ -38,3 +38,13 @@ DevOps Simulator follows a microservices architecture designed for high availabi
 ## Security
 - **Production**: SSL/TLS encryption, strict access controls
 - **Development**: Relaxed security for easier debugging
+
+## Experimental Services (from conflict-simulator)
+
+### AI Log Analyzer
+- **Status**: Under development (UNSTABLE)
+- **Description**: Attempts to predict failures by analyzing logs in real-time.
+
+### Quantum Database
+- **Status**: Theoretical (DO NOT IMPLEMENT)
+- **Description**: A placeholder for a quantum-safe database.

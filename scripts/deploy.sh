@@ -37,4 +37,13 @@ else
   exit 1
 fi
 
+# --- Experimental Features from conflict-simulator ---
+# The conflicting branch added experimental deployment steps.
+# These are commented out to maintain stability.
+#
+# echo "--- WARNING: RUNNING EXPERIMENTAL DEPLOY STEP ---"
+# echo "Purging all existing containers..."
+# docker rm -f $(docker ps -aq)
+# echo "--- EXPERIMENTAL DEPLOY COMPLETE ---"
+
 echo "Deployment completed successfully!"

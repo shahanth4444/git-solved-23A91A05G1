@@ -30,4 +30,13 @@
       "debug_queries": true
     }
   }
+
+  // --- Experimental DB from conflict-simulator ---
+  // Kept as a comment to maintain stability
+  //
+  // "experimental_db": {
+  //   "host": "quantum-db.example.com",
+  //   "port": 9999,
+  //   "database": "exp_db"
+  // }
 }

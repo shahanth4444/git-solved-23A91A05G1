@@ -51,3 +51,11 @@ function checkSystemHealth() {
 console.log(`Monitoring every ${config.interval}ms`);
 setInterval(checkSystemHealth, config.interval);
 checkSystemHealth();
+
+// --- Experimental AI Monitoring from conflict-simulator ---
+// Kept as a comment to maintain stability
+//
+// function runExperimentalAIMonitor() {
+//   console.log("[EXPERIMENTAL] AI monitor analyzing logs...");
+// }
+// setInterval(runExperimentalAIMonitor, 10000);

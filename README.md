@@ -29,6 +29,10 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - Enhanced logging
 - Mock external APIs
 
+### Experimental Features (From conflict-simulator)
+- **AI-Powered Log Analysis** (UNSTABLE)
+- **Quantum Deployment Pipeline** (DO NOT USE)
+
 ## Quick Start
 
 ### Production Mode
