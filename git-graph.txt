@@ -1,0 +1,19 @@
+* b883140 (HEAD -> main) Revert "docs: Add FAQ section"
+| * 0074215 (origin/feature/another-feature) feat: Add test feature
+|/  
+* 98dacb4 (tag: v1.1.0, tag: v1.0.0, origin/main, feature/another-feature) docs: Update README
+* e0debce feat: Add new feature
+* 162153f docs: Add FAQ section
+| * 2a24b9e (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+|/  
+*   0c19fa8 merge: Resolve all conflicts with instructor/conflict-simulator
+|\  
+| * d3dd9b2 (instructor/conflict-simulator) updating conflict-simulator
+* |   1de1849 merge: Resolve all conflicts between main and dev branches
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
