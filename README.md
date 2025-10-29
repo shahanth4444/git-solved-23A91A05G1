@@ -5,8 +5,8 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 ## Project Status
 - **Version**: 1.0.0 (Production), 2.0.0-beta (Development)
 - **Environments**: Production & Development
-- **Student**: [KARRI SHAHANTH KRISHNA REDDY]
-- **Student ID**: [23A91A05G1]
+- **Student**: KARRI SHAHANTH KRISHNA REDDY  
+- **Student ID**: 23A91A05G1              
 
 ## Features
 
@@ -38,5 +38,4 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 ### Production Mode
 ```bash
 export DEPLOY_ENV=production
-./scripts/deploy.sh## FAQ
-update
+./scripts/deploy.sh
